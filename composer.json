@@ -1,7 +1,7 @@
 {
     "name": "ant-hill/yandex-tank-ammo-builder",
-    "type": "phalcon-library",
-    "description":"Phalcon kernel module",
+    "type": "utils",
+    "description":"Yandex tank ammo builder",
     "license": "MIT",
     "authors": [
         {
